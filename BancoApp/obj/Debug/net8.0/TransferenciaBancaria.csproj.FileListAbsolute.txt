@@ -1,0 +1,15 @@
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.AssemblyInfo.cs
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.sourcelink.json
+C:\Users\WesleyJunior\source\repos\BancoApp\bin\Debug\net8.0\TransferenciaBancaria.exe
+C:\Users\WesleyJunior\source\repos\BancoApp\bin\Debug\net8.0\TransferenciaBancaria.deps.json
+C:\Users\WesleyJunior\source\repos\BancoApp\bin\Debug\net8.0\TransferenciaBancaria.runtimeconfig.json
+C:\Users\WesleyJunior\source\repos\BancoApp\bin\Debug\net8.0\TransferenciaBancaria.dll
+C:\Users\WesleyJunior\source\repos\BancoApp\bin\Debug\net8.0\TransferenciaBancaria.pdb
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.dll
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\refint\TransferenciaBancaria.dll
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.pdb
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\TransferenciaBancaria.genruntimeconfig.cache
+C:\Users\WesleyJunior\source\repos\BancoApp\obj\Debug\net8.0\ref\TransferenciaBancaria.dll
